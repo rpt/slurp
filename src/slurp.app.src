@@ -1,0 +1,6 @@
+%% -*- mode: erlang -*-
+%% vi: set ft=erlang :
+
+{application, slurp,
+ [{description, "Erlang slurps"},
+  {vsn, "0.1.0"}]}.
